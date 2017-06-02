@@ -1,0 +1,27 @@
+{
+  "name": "clanwebserver",
+  "version": "0.1.0",
+  "description": "A little webserver for clans",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILikeBananas/ClanWebServer.git"
+  },
+  "keywords": [
+    "clans",
+    "web"
+  ],
+  "author": "I_Like_Bananas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ILikeBananas/ClanWebServer/issues"
+  },
+  "homepage": "https://github.com/ILikeBananas/ClanWebServer#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.1"
+  }
+}
